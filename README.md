@@ -3,7 +3,7 @@ Bài tập lớn của Nguyễn Đức Trung, lớp ICT-01 K65
 
 Trong repository gồm
 
-  -ex1.c, TOHOP.INP, TOHOP.OUT (của bài 1
+  -ex1.c, TOHOP.INP, TOHOP.OUT (của bài 1)
   -ex2.c, BAG.INP (của bài 2)
   -ex3.c, student.h, SV2021.dat, output.txt (của bài 3)
   -ex4.c (của bài 4)
